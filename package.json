@@ -1,5 +1,7 @@
 {
-  "name": "axios",
+  "name": "axios-token-management",
+  "description": "Axios wrapper with interceptor",
+  "keywords": "axios",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
